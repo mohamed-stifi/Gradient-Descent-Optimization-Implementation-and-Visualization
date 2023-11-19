@@ -32,13 +32,13 @@ This repository contains Python code for implementing steepest-descent method to
 1. Ensure that the required dependencies are installed by running:
 
    ```bash
-   pip install numpy numdifftools matplotlib```
+   pip install numpy numdifftools matplotlib
 2. Run `Gradient_Descent.py` to perform the steepest-descent optimization and save the results to a Pickle file:
 
    ```bash
-   python Gradient_Descent.py```
+   python Gradient_Descent.py
 3. Run `main.py` to visualize the steepest-descent paths and generate an animated GIF.
    
    ```bash
-   python main.py```
+   python main.py
 
